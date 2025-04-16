@@ -8,15 +8,13 @@ LODAP is a lightweight incremental learning framework for edge devices that util
 ```bash
 git clone https://github.com/your-repo/LODAP.git
 cd LODAP
-```bash
+```
 2.Install dependencies:
 ```bash
 pip install -r requirements.txt
-```bash
 3.Run the experiment:
 ```bash
 python main.py
-```bash
 ## Key parameters
 | Parameter          | Description                           | Default         |
 |--------------------|---------------------------------------|-----------------|

@@ -1,12 +1,12 @@
 # LODAP: On-Device Incremental Learning Via Lightweight Operations and Data Pruning
-LODAP is a lightweight incremental learning framework for edge devices that utilizes efficient incremental modules (EIM) and data pruning strategy to significantly improve the learning accuracy of new categories while reducing model complexity and training overhead.
+LODAP is a lightweight incremental learning framework for edge devices that utilizes efficient incremental modules (EIM) and data pruning strategy to significantly improve the learning accuracy of new classes while reducing model complexity and training costs.
 ## ✨ Key highlights
-1.**​Efficient Incremental Module (EIM)​**​: By using lightweight adapters and structural reparameterization techniques, incremental learning of new categories can be achieved with low computational overhead.\
+1.**​Efficient Incremental Module (EIM)​**​: By using lightweight adapters and structural reparameterization techniques, incremental learning of new classes can be achieved with low computational overhead.\
 2.​**​Data Pruning​**: Selecting high-value training samples based on EL2N score significantly reduces training costs while maintaining model accuracy.
 ## 🚀 Quick start
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/LODAP.git
+git clone https://github.com/duanbiqing/LODAP.git
 cd LODAP
 ```
 2. Install dependencies:

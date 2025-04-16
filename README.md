@@ -21,7 +21,7 @@ python main.py
 
 | Parameter          | Description                           | Default         |
 |--------------------|---------------------------------------|-----------------|
-| `--data_name`      | Dataset name to use                   | 'cifar100'      |
+| `--data_name`      | Dataset name to use                   | cifar100      |
 | `--total_nc`       | Class number for the dataset          | 100             |
 | `--fg_nc`          | The number of classes in first task   | 50              |
 | `--task_num`       | The number of incremental steps       | 10              |
